@@ -30,3 +30,10 @@ npm test
 ```
 
 当前版本为前端交互样板，数据为本地演示数据，不依赖云端服务。
+
+## 在线访问
+
+- GitHub Pages：<https://mwljgreen46.github.io/xiaozhou-family-learning-hub/>
+- 源码仓库：<https://github.com/mwljgreen46/xiaozhou-family-learning-hub>
+
+推送到 `main` 分支后，GitHub Actions 会自动构建并更新在线演示。
